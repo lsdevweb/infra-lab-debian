@@ -30,3 +30,8 @@ cd infra-lab-debian
 
 # Subir os serviços
 docker-compose up -d
+## 📊 Status do Laboratório
+- **IP Local do Servidor:** 192.168.122.87
+- **Porta de Serviço:** 8080
+- **Monitoramento:** Logs ativos via `docker logs`
+Nota de Segurança: Os endereços de IP e credenciais demonstrados neste laboratório são fictícios ou restritos ao ambiente de rede local isolado, seguindo as boas práticas de segurança da informação.
